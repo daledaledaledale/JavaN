@@ -9,7 +9,7 @@
 ```java
 public class ArrayList<E> extends AbstractList<E>
         implements List<E>, RandomAccess, Cloneable, java.io.Serializable
-```
+``` 
 
 - ArrayList의 배열의 크기는 처음 add를 할 때 정해진다.
 
