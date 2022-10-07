@@ -71,7 +71,7 @@ queue.clear(); // queue 초기화
 ```java
 import java.util.Stack;
 Stack<Integer> stack = new Stack<>();
-Stack<String> stack = new Stack<>();
+Stack<String> stack = new Stack<>(); 
 ```
 
 `Stack 값 추가,삭제`
